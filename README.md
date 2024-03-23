@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @muralielavarthi
+- 👋 Hi, I’m Murali Elavarthi
 - 🌱 I’m frontend React Developer
