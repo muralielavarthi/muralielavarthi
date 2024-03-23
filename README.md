@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @muralielavarthi
-- 👀 I’m interested in Software Engineering.
-- 🌱 I’m currently learning Full Stack.
+- 🌱 I’m frontend React Developer
