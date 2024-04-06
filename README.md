@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Murali Elavarthi
 - 🌱 I’m frontend Engineer
-Tech Stack:
+- **Tech Stack:**
 - Programming Languages: Javascript, Typescript
 - Markup: HTML5, JSX
 - Styling: CSS3, Flexbox, Grid
