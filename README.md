@@ -6,6 +6,6 @@ Tech Stack:
 - Styling: CSS3, Flexbox, Grid
 - CSS Frameworks: Bootstrap, Tailwind
 - Frontend Library: ReactJs
-- State Managemnt: Recoil, Redux
+- State Management: Recoil, Redux
 - Bundler: Parcel
 - Version Control: Git/GitHub
