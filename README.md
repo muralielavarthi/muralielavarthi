@@ -6,5 +6,6 @@
 - CSS Frameworks: Bootstrap, Tailwind
 - Frontend Library: ReactJs
 - State Management: Recoil, Redux
+- Testing: JEST
 - Bundler: Parcel
 - Version Control: Git/GitHub
