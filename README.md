@@ -5,6 +5,7 @@
 - Styling: CSS3, Flexbox, Grid
 - CSS Frameworks: Bootstrap, Tailwind
 - Frontend Library: ReactJs
+- Framework: Next.js
 - State Management: Recoil, Redux
 - Testing: JEST
 - Bundler: Parcel
