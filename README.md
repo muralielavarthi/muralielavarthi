@@ -4,9 +4,9 @@
 - Markup: HTML5, JSX
 - Styling: CSS3, Flexbox, Grid
 - CSS Frameworks: Bootstrap, Tailwind
-- Frontend Library: ReactJs
+- Front-end Library: React
 - Framework: Next.js
 - State Management: Recoil, Redux
 - Testing: JEST
 - Bundler: Parcel
-- Version Control: Git/GitHub
+- Tools: Git,GitHub
