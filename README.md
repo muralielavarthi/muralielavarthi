@@ -8,5 +8,5 @@
 - Framework: Next.js
 - State Management: Recoil, Redux
 - Testing: JEST
-- Bundler: Parcel
+- Bundler: Parcel, Vite
 - Tools: Git,GitHub
