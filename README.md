@@ -6,7 +6,7 @@
 - CSS Frameworks: Bootstrap, Tailwind
 - Front-end Library: React
 - Framework: Next.js
-- State Management: Recoil
+- State Management: Recoil, Redux
 - Testing: JEST
 - Bundler: Parcel, Vite
 - Tools: Git,GitHub
