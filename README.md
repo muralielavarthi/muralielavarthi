@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Murali Elavarthi
+<div>👋 Hi, I’m Murali Elavarthi</div>
 - 🌱 I’m frontend Engineer
 - Programming Languages: Javascript, Typescript
 - Markup: HTML5, JSX
