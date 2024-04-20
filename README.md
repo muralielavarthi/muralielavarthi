@@ -1,4 +1,4 @@
-<div>👋 Hi, I’m Murali Elavarthi</div>
+<div style="display:flex;justify-content:center">👋 Hi, I’m Murali Elavarthi</div>
 - 🌱 I’m frontend Engineer
 - Programming Languages: Javascript, Typescript
 - Markup: HTML5, JSX
