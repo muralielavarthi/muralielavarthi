@@ -2,7 +2,6 @@
 - Technical Skills:
 - Cloud Technologies: Amazon AWS
 - AWS Services
-- Build Tools: Maven
 - Container Technologies: Docker, Kubernetes
 - Scripting: Shell and Python
 - Version Control: Git and Github
