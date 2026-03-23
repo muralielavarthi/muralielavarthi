@@ -6,6 +6,5 @@ Technical Skills:
 - Container Technologies: Docker, Kubernetes
 - Scripting: Shell and Python
 - Version Control: Git and Github
-- Configuration Management: Ansible
 - Infrastructure as code: Terraform
 - CI/CD: Jenkins
