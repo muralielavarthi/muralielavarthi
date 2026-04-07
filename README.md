@@ -2,9 +2,11 @@
 
 Technical Skills:
 - Cloud Technologies: Amazon AWS
-- AWS Services: EC2, IAM, EKS, EBS, EFS, VPC, S3, Route53, ECR
+- AWS Services: EC2, IAM, EKS, EBS, EFS, VPC, S3, Route53, ECR, RDS
 - Container Technologies: Docker, Kubernetes
+- Configuration Management: Ansible
 - Scripting: Shell and Python
 - Version Control: Git and Github
 - Infrastructure as code: Terraform
 - CI/CD: Jenkins
+- Ticketing & Collaboration Tools: Jira
