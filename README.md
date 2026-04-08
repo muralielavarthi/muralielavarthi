@@ -1,4 +1,5 @@
-👋 Hi, I’m Murali Elavarthi, Senior DevOps Engineer with 6+ years of experience in architecting scalable cloud infrastructures, automating CI/CD pipelines, and managing Kubernetesbased platforms. Skilled in microservices deployment, infrastructure automation, and ensuring secure, high-performing production environments.
+👋 Hi, I’m Murali Elavarthi, Senior DevOps Engineer with 6+ years of overall experience, including 4.5 years in implementing scalable
+cloud infrastructure, automating CI/CD pipelines, and managing Kubernetes-based platforms
 
 Technical Skills:
 - Cloud Technologies: Amazon AWS
@@ -8,5 +9,5 @@ Technical Skills:
 - Scripting: Shell and Python
 - Version Control: Git and Github
 - Infrastructure as code: Terraform
-- CI/CD: Jenkins
+- CI/CD: Jenkins, GitHub Actions, ArgoCD
 - Ticketing & Collaboration Tools: Jira
