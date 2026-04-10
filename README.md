@@ -16,3 +16,5 @@ If you have any questions or would like to collaborate, feel free to reach out v
 muralielavarthi5@gmail.com
 
 Checkout my complete profile at LinkedIn: https://www.linkedin.com/in/muralielavarthi/
+
+![Profile Views](https://komarev.com/ghpvc/?username=muralielavarthi&color=blue)
