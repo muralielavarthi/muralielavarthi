@@ -17,4 +17,8 @@ muralielavarthi5@gmail.com
 
 Checkout my complete profile at LinkedIn: https://www.linkedin.com/in/muralielavarthi/
 
+## Certifications:
+- AWS Certified Cloud Practitioner, Achieved AWS Cloud Practitioner certification, demonstrating expertise on core
+AWS services - https://www.credly.com/badges/577e6855-1e7a-4a88-858d-3f47df610acc
+
 ![Profile Views](https://komarev.com/ghpvc/?username=muralielavarthi&color=blue)
