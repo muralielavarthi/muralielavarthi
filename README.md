@@ -8,7 +8,7 @@ cloud infrastructure, automating CI/CD pipelines, and managing Kubernetes-based 
 - Scripting: Shell and Python
 - Version Control: Git and Github
 - Infrastructure as code: Terraform
-- CI/CD: Jenkins, GitHub Actions, ArgoCD
+- CI/CD: Jenkins
 - Ticketing & Collaboration Tools: Jira
 
 If you have any questions or would like to collaborate, feel free to reach out via email:
