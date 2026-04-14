@@ -16,7 +16,7 @@
 - ITSM & Collaboration: Jira
 
 ## EXPERIENCE:
-Accenture, Content Mgmt Advisory Senior Analyst - DevOps
+Accenture, Bengaluru, India  | Content Mgmt Advisory Senior Analyst - DevOps
 - Designed and implemented scalable, highly available AWS infrastructure (EC2, VPC, S3, EKS,
 IAM, EBS, Route53) supporting production workloads
 - Contributed to migration of legacy VM-based applications to containerized microservices using
