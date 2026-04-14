@@ -7,7 +7,6 @@
 - GitOps & Packaging: ArgoCD, Helm
 - Infrastructure as Code: Terraform
 - CI/CD & DevOps: GitHub Actions, Jenkins
-- Configuration Management: Ansible
 - Monitoring & Observability: Prometheus, Grafana, ELK Stack
 - Version Control: Git, Github
 - Scripting & Automation: Python, Bash
