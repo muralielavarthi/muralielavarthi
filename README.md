@@ -47,6 +47,14 @@ reducing provisioning time from days to minutes
 - Utilized Git/GitHub for version control and collaborated with cross-functional teams using Jira to
 support releases and resolve production issues
 
+Accenture (Quess Corp), Bengaluru, India | Email Content Designer
+- Prepared responsive HTML email templates using Knak Email Builder, ensuring cross-client
+compatibility
+- Created reusable modules and standardized templates for faster and consistent email campaigns
+- Improved campaign creation efficiency by 40% through modular component development
+- Crafted innovative modular components that expedited the development process, reduced overall
+project turnaround time by two weeks while ensuring consistency across all standardized email
+campaign templates
 
 If you have any questions or would like to collaborate, feel free to reach out via email:
 muralielavarthi5@gmail.com
